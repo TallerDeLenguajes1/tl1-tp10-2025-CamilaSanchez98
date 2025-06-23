@@ -29,5 +29,3 @@ catch (Exception ex)
     Console.WriteLine($"Detalles del error: {ex.Message}");
     Console.WriteLine($"Tipo de error (.Name): {ex.GetType().Name}"); // Para ver el tipo específico de excepción
 }
-
-/*EJERCICIO 2*/
